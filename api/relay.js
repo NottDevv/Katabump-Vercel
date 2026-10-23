@@ -399,6 +399,7 @@ async function proxy(request, server) {
       method: request.method,
       headers,
       body: getRequestBody(request),
+      duplex: 'half',
       redirect: 'manual'
     });
   } catch (error) {
