@@ -7,6 +7,7 @@ const SERVERS = {
   masi: { user: 'Masi', host: '51.68.34.78', port: '20051' },
   f72: { user: 'F72', host: '51.75.118.79', port: '20353' },
   reza: { user: 'Reza', host: '51.75.118.5', port: '20185' },
+  jbst62: { user: 'Jbst62', host: '145.239.69.111', port: '20168' },
   f38: { user: 'F38', host: '51.75.118.165', port: '20126' }
 };
 
